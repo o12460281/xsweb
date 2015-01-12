@@ -23,3 +23,5 @@ I want to review about git everything!
   4. git pull from upstream if request be respone
 
   5. push commit push to yourself master branch
+
+# how to check in someone's request
